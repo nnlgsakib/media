@@ -1,0 +1,16 @@
+[
+	{
+		"title": "MSC Mainnet",
+		"url": "https://mainnet.mindscan.info",
+		"group": "Mainnets",
+		"icon": "https://i.postimg.cc/mDVQQ5ZW/IMG-20230725-122017-961-removebg-preview.png",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "MSC Testnet",
+		"url": "https://testnet.mindscan.info",
+		"group": "Testnets",
+		"icon": "https://i.postimg.cc/mDVQQ5ZW/IMG-20230725-122017-961-removebg-preview.png",
+		"isActive": true
+	}
+]
