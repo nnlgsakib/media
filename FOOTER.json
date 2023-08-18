@@ -1,0 +1,22 @@
+{
+  "group1": [
+    {
+      "label": "Web-Site",
+      "url": "https://mindchain.info"
+    },
+    {
+      "label": "Testnet Faucet",
+      "url": "https://faucet.mindchain.info"
+    }
+  ],
+  "group2": [
+    {
+      "label": "facebook",
+      "url": "https://web.facebook.com/mindchain.info"
+    },
+    {
+      "label": "Medium",
+      "url": "https://medium.com/@mindchain"
+    }
+  ]
+}
